@@ -1,5 +1,5 @@
 {
-  "name": "asset-management",
+  "name": "@webpack-tour/asset-management",
   "version": "1.0.0",
   "private": true,
   "scripts": {
