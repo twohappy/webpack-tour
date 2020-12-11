@@ -1,5 +1,6 @@
 import _ from 'lodash';
 import printMe from './print.js';
+import {hello} from '@webpack-tour/getting-started';
 
 function component() {
   const element = document.createElement('div');
@@ -14,3 +15,4 @@ function component() {
   return element;
 }
 document.body.appendChild(component());
+hello()
